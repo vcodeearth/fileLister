@@ -1,0 +1,14 @@
+{
+  "name": "filelister",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Vishnu Venugopal",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.4"
+  }
+}
